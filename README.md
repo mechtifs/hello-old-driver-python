@@ -1,7 +1,7 @@
 # Hello Old Driver Reader (Python)
 A LLSS Reader
 
-Original Author: [LYZhelloworld](https://github.com/LYZhelloworld)
+Original Author: [LYZhelloworld](https://github.com/LYZhelloworld)  
 Inspired by [Chion82/hello-old-driver](https://github.com/Chion82/hello-old-driver).
 
 ## Usage
